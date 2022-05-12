@@ -2,7 +2,7 @@
 
 
 - 🛠️ Atualmente Trabalho com Front-End 
-- 💻 Estudando Python, e Rust
+- 💻 Estudando Java Script, Python, e Rust. Sempre querendo melhorar nas linguagem escolhidas!!
 
 <div align="center">
   <a href="https://github.com/Guilhermealves20101999">

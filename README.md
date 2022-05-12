@@ -1,7 +1,7 @@
 ### Olá, Eu sou o Guilherme Alves 👋
 
 
-- 🛠️ Atualmente Trabalho com Back-end  
+- 🛠️ Atualmente Trabalho com Front-End 
 - 💻 Estudando Python, e Rust
 
 <div align="center">
